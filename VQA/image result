@@ -1,0 +1,80 @@
+test.jpg :
+Q: what is the vehicle?
+Predicting result ...
+85.06 %  train
+05.87 %  bicycle
+02.33 %  bike
+01.74 %  bus
+00.79 %  boat
+
+
+aeroplane.jpg
+what is the place?
+Predicting result ...
+71.81 %  airport
+14.77 %  runway
+06.91 %  parking lot
+01.02 %  on tracks
+000.8 %  station
+
+
+baseball.jpg
+which game are they playing?
+Predicting result ...
+94.62 %  baseball
+03.44 %  soccer
+01.26 %  frisbee
+00.17 %  tennis
+00.09 %  zebra
+
+
+fruits.jpg
+what fruits are there?
+Predicting result ...
+97.35 %  apple
+00.65 %  banana
+00.58 %  apples
+00.56 %  orange
+00.37 %  oranges
+
+
+giraffe.jpg
+which animal is there?
+Predicting result ...
+97.56 %  giraffe
+001.0 %  zebra
+00.92 %  bird
+00.34 %  horse
+00.04 %  owl
+
+
+boat.jpg
+where is the man?
+Predicting result ...
+72.49 %  beach
+09.63 %  parking lot
+03.54 %  airport
+02.68 %  in air
+01.21 %  runway
+
+pizza.jpg
+what is this?
+Predicting result ...
+96.01 %  pizza
+02.75 %  salad
+00.52 %  food
+00.27 %  vegetables
+00.08 %  pasta
+
+
+scissors.jpg
+what is this?
+Predicting result ...
+70.41 %  scissors
+005.0 %  toothbrush
+04.18 %  bicycle
+03.77 %  toothbrushes
+01.59 %  skateboard
+
+
+
